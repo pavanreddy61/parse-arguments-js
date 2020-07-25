@@ -1,6 +1,6 @@
 {
-  "name": "parse-arguments",
-  "version": "1.0.0",
+  "name": "parse-arguments-js",
+  "version": "1.0.2",
   "description": "Parse commandLine arguments",
   "main": "parseArguments.js",
   "scripts": {
