@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pavanreddy61/parse-arguments.git"
+    "url": "git+https://github.com/pavanreddy61/parse-arguments-js.git"
   },
   "keywords": [
     "argv",
@@ -19,9 +19,9 @@
   "author": "Pavan Malgari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pavanreddy61/parse-arguments/issues"
+    "url": "https://github.com/pavanreddy61/parse-arguments-js/issues"
   },
-  "homepage": "https://github.com/pavanreddy61/parse-arguments#readme",
+  "homepage": "https://github.com/pavanreddy61/parse-arguments-js#readme",
   "devDependencies": {
     "jest": "^26.1.0"
   }

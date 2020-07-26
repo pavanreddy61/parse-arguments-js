@@ -4,7 +4,7 @@ parse arguments
 # example
 
 ``` js
-var argv = require('parse-arguments')(process.argv.slice(2));
+var argv = require('parse-arguments-js')(process.argv.slice(2));
 console.log(argv);
 ```
 
